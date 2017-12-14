@@ -2,8 +2,8 @@ body  {
   margin-left: 150px;
 }
 
-.sums {
-  float: left;
+#sums {
+  position: absolute;
 }
 
 .output {
