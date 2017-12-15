@@ -2,11 +2,12 @@ body  {
   margin-left: 150px;
 }
 
-#sums {
-  position: absolute;
+.sums {
+  margin-top: 30px;
 }
 
 .output {
-  margin-left: 200px;
-  margin-top: 30px;
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 10px;
 }
